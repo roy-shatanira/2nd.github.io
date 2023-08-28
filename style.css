@@ -111,5 +111,8 @@ body {
       grid-template-columns: 1fr;
       gap:10px;
     }
+    .testimonial{
+      max-width: 100%;
+    }
 }
   
