@@ -109,7 +109,7 @@ body {
   @media (max-width: 375px) {
     .testimonial-grid {
       grid-template-columns: 1fr;
-      padding: 20px;
+      gap:10px;
     }
 
 
